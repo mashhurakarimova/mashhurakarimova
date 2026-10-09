@@ -117,37 +117,48 @@ Built relational databases and worked with SQL queries, ERDs, structured data, a
 
 ## ⚡ TECH STACK
 
-**Programming & Web**
+**Programming & Web**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white">
 
-`Java` `Python` `JavaScript` `SQL` `HTML` `CSS`
+**Cybersecurity & Systems**  
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white">
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white">
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square">
+<img src="https://img.shields.io/badge/Networking-005571?style=flat-square">
+<img src="https://img.shields.io/badge/Authentication-6A5ACD?style=flat-square">
 
-**Cybersecurity & Networking**
-
-`Kali Linux` `Nmap` `Wireshark` `Network Security` `Packet Analysis` `TCP/IP` `DNS` `OWASP Top 10` `Threat Analysis` `Firewall Configuration`
-
-**Systems & Virtualization**
-
-`Linux` `Windows Server` `Active Directory` `VirtualBox` `VMware` `Virtualization`
-
-**Data & Cloud**
-
-`Oracle SQL Developer` `MySQL` `Azure` `Tableau` `Power BI` `Database Management` `Cloud Computing`
-
-**Tools**
-
-`GitHub` `GitLab` `VS Code` `Microsoft 365`
+**Data & Information Systems**  
+<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft&logoColor=white">
+<img src="https://img.shields.io/badge/DonorPerfect-4B0082?style=flat-square">
+<img src="https://img.shields.io/badge/CRM-0089D6?style=flat-square">
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
 
 ---
 
-## 🌎 LANGUAGES
+## 🌍 LANGUAGES
 
-`English` · `Russian` · `Persian` · `Uzbek` · `Turkish`
+`English` · `Russian` · `Uzbek` · `Tajik` · `Turkish`
 
 ---
 
 <div align="center">
 
-<code>learning • building • breaking • securing</code>
+<code>// girl in cyber • systems • data • building things</code>
+
+<br><br>
+
+**Breaking things to understand how they work. Building them back better.**
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=mashhurakarimova&label=profile%20views&color=red&style=flat-square">
 
 </div>
-
