@@ -124,6 +124,10 @@ Built relational databases and worked with SQL queries, ERDs, structured data, a
 
 ## ⚡ TECH STACK
 
+## 🌍 Languages
+
+`English` · `Russian` · `Uzbek` · `Tajik`
+
 ### Security & Systems
 
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white">
