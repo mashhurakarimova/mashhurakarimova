@@ -172,12 +172,12 @@ Built relational databases and worked with SQL queries, ERDs, structured data, a
 
 <br><br>
 
-<i>"Breaking things to understand how they work. Building them back better."</i>
+<i>"Breaking things to understand how they work. Building them back better"</i>
 
 <br><br>
 
-<a href="YOUR_INSTAGRAM_LINK">
-<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white">
+<a href="https://www.instagram.com/tears414/">
+<img src="https://img.shields.io/badge/Instagram-tears414-E4405F?style=flat-square&logo=instagram&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/mashhura-karimova/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
