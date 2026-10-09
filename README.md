@@ -118,23 +118,31 @@ Built relational databases and worked with SQL queries, ERDs, structured data, a
 
 ## ⚡ TECH STACK
 
-**Security**
+**Programming & Web**
 
-`Kali Linux` `Wireshark` `Nmap` `Network Security`
+`Java` `Python` `JavaScript` `SQL` `HTML` `CSS`
 
-**Systems & Data**
+**Cybersecurity & Networking**
 
-`Linux` `SQL` `Oracle SQL Developer` `Microsoft 365`
+`Kali Linux` `Nmap` `Wireshark` `Network Security` `Packet Analysis` `TCP/IP` `DNS` `OWASP Top 10` `Threat Analysis` `Firewall Configuration`
 
-**Development**
+**Systems & Virtualization**
 
-`HTML` `CSS` `JavaScript` `Bash`
+`Linux` `Windows Server` `Active Directory` `VirtualBox` `VMware` `Virtualization`
+
+**Data & Cloud**
+
+`Oracle SQL Developer` `MySQL` `Azure` `Tableau` `Power BI` `Database Management` `Cloud Computing`
+
+**Tools**
+
+`GitHub` `GitLab` `VS Code` `Microsoft 365`
 
 ---
 
 ## 🌎 LANGUAGES
 
-`English` · `Russian` · `Uzbek` · `Tajik` · `Turkish`
+`English` · `Russian` · `Persian` · `Uzbek` · `Turkish`
 
 ---
 
@@ -143,3 +151,4 @@ Built relational databases and worked with SQL queries, ERDs, structured data, a
 <code>learning • building • breaking • securing</code>
 
 </div>
+
