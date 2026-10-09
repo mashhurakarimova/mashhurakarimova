@@ -58,9 +58,9 @@ CRM Data & Information Systems Co-op @ The Business Center for Entrepreneurship 
 
 **CRM Data & Information Systems**
 
-Working with CRM data, information systems, data organization, and technology supporting nonprofit operations.
+Working with CRM systems to organize donor and organization data, maintain accurate records, and support nonprofit operations. Learning how data, information systems, and technology support real business processes
 
-`CRM` `Data` `Information Systems` `Microsoft 365`
+`CRM` `DonorPerfect` `Data Management` `Information Systems` `Microsoft 365`
 
 </td>
 
@@ -70,7 +70,7 @@ Working with CRM data, information systems, data organization, and technology su
 
 **Mini Custom Computer**
 
-Building a small, personalized computer from scratch while learning how hardware, Linux, and computer systems work together.
+Building a small, personalized computer from scratch while learning how hardware, Linux, and computer systems work together
 
 `Raspberry Pi` `Linux` `Python` `GPIO` `Electronics` `Hardware`
 
