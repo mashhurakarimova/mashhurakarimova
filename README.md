@@ -8,7 +8,7 @@
 <tr>
 <td width="68%" valign="top">
 
-<h1>Mashkhura Karimova.</h1>
+<h1>Mashkhura Karimova</h1>
 
 Girl in cybersecurity, curious about how systems work, how they break, and how to secure them.
 
