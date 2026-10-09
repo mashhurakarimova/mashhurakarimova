@@ -78,8 +78,7 @@ Working with CRM data, information systems, data organization, and technology su
 
 **Security & Systems**
 
-Exploring system security through Linux, networking, authentication, and vulnerability analysis.
-
+Exploring system security through Linux, networking, authentication, and vulnerability analysis
 `Linux` `Networking` `Authentication` `Security`
 
 </td>
