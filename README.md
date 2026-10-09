@@ -10,9 +10,9 @@
 <tr>
 <td width="68%" valign="top">
 
-<h1>Mashkhura Karimova.</h1>
+<h1>Mashkhura Karimova</h1>
 
-Girl in cyber, curious about how systems work, how they break, and how to secure them.
+Girl in cyber, curious about how systems work, how they break, and how to secure them
 
 <b>Computing & Security Technology @ Drexel University</b><br>
 CRM Data & Information Systems Co-op @ The Business Center for Entrepreneurship & Social Enterprise
