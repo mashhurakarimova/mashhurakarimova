@@ -115,6 +115,7 @@ Built relational databases and worked with SQL queries, ERDs, structured data, a
 
 ---
 
+
 ## ⚡ TECH STACK
 
 **Programming & Web**  
@@ -132,14 +133,30 @@ Built relational databases and worked with SQL queries, ERDs, structured data, a
 <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square">
 <img src="https://img.shields.io/badge/Networking-005571?style=flat-square">
 <img src="https://img.shields.io/badge/Authentication-6A5ACD?style=flat-square">
+<img src="https://img.shields.io/badge/System_Administration-444444?style=flat-square">
+<img src="https://img.shields.io/badge/Virtual_Machines-183A61?style=flat-square">
 
 **Data & Information Systems**  
 <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle_SQL_Developer-C74634?style=flat-square&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
 <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft&logoColor=white">
-<img src="https://img.shields.io/badge/DonorPerfect-4B0082?style=flat-square">
+<img src="https://img.shields.io/badge/DonorPerfect-6F42C1?style=flat-square">
 <img src="https://img.shields.io/badge/CRM-0089D6?style=flat-square">
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
+<img src="https://img.shields.io/badge/Database_Design-336791?style=flat-square">
+<img src="https://img.shields.io/badge/ERD-4B5563?style=flat-square">
+
+**Tools & Platforms**  
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+
+**Hardware & Building**  
+<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white">
+<img src="https://img.shields.io/badge/Hardware-555555?style=flat-square">
+<img src="https://img.shields.io/badge/Cyberdeck-Building-FF69B4?style=flat-square">
 
 ---
 
@@ -155,10 +172,16 @@ Built relational databases and worked with SQL queries, ERDs, structured data, a
 
 <br><br>
 
-**Breaking things to understand how they work. Building them back better.**
+<i>"Breaking things to understand how they work. Building them back better."</i>
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=mashhurakarimova&label=profile%20views&color=red&style=flat-square">
+<a href="YOUR_INSTAGRAM_LINK">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/mashhura-karimova/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+</a>
+<img src="https://komarev.com/ghpvc/?username=mashhurakarimova&label=Profile%20views&color=red&style=flat-square">
 
 </div>
