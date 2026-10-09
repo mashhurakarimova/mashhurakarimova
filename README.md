@@ -66,13 +66,13 @@ Working with CRM data, information systems, data organization, and technology su
 
 <td width="50%" valign="top">
 
-### 🔐 CYBERSECURITY
+### 💻 CYBERDECK
 
-**Security & Systems**
+**Mini Custom Computer**
 
-Exploring system security through Linux, networking, authentication, and vulnerability analysis.
+Building a small, personalized computer from scratch while learning how hardware, Linux, and computer systems work together.
 
-`Linux` `Networking` `Authentication` `Security`
+`Raspberry Pi` `Linux` `Python` `GPIO` `Electronics` `Hardware`
 
 </td>
 
