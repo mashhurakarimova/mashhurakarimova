@@ -37,10 +37,11 @@ CRM Data & Information Systems Co-op @ The Business Center for Entrepreneurship 
 
 <td width="32%" valign="top">
 
-<img src="https://img.shields.io/badge/Drexel-CST-blue?style=flat-square">
+<img src="https://img.shields.io/badge/Dean's_List-Drexel-6C63FF?style=flat-square">
 <br>
 <img src="https://img.shields.io/badge/AI_Security-Challenge_Winner-8A2BE2?style=flat-square">
 <img src="https://img.shields.io/badge/Drexel-Computing_%26_Security_Technology-6C63FF?style=flat-square">
+
 <img src="https://komarev.com/ghpvc/?username=mashhurakarimova&style=flat-square&label=Profile+views">
 
 </td>
