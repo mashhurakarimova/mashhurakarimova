@@ -126,7 +126,7 @@ Built relational databases and worked with SQL queries, ERDs, structured data, a
 
 ## 🌍 Languages
 
-`English` · `Russian` · `Uzbek` · `Tajik`
+`English` · `Russian` · `Uzbek` · `Persian` Turkish`
 
 ### Security & Systems
 
