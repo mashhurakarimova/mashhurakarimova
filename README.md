@@ -5,7 +5,7 @@
 
 <h1>Mashkhura Karimova</h1>
 
-Girl in cybersecurity, curious about how systems work, how they break, and how to secure them.
+Girl in cybersecurity, curious about how systems work, how they break, and how to secure them
 
 <p>
 <b>Computing & Security Technology @ Drexel University</b><br>
@@ -47,7 +47,6 @@ CRM Data & Information Systems Co-op @ The Business Center for Entrepreneurship 
 
 ---
 
-## ⭐ NOW BUILDING
 ## ⭐ NOW BUILDING
 
 <table>
