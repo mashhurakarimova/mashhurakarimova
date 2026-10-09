@@ -72,21 +72,14 @@ Working with CRM data, information systems, data organization, and technology su
 </td>
 
 <td width="50%" valign="top">
+  
+<h4>🔐 CYBERSECURITY</h4>
 
-### 🔐 CYBERSECURITY
+<b>Security & Systems</b>
 
-#### Security & Systems
+<p>Hands-on work with Linux, networking, authentication, and vulnerability analysis.</p>
 
-Hands-on work with Linux, networking, authentication, system administration, and security concepts.
-
-`Kali Linux` `Wireshark` `Nmap` `Network Security`
-
-</td>
-
-</tr>
-</table>
-
----
+<code>Kali Linux</code> <code>Wireshark</code> <code>Nmap</code> <code>Security</code>
 
 ## 🏆 FEATURED WORK
 
