@@ -1,6 +1,6 @@
 <div align="center">
 
-<code>// cybersecurity • systems • drexel • philly</code>
+<code>// girl in cyber • tech • drexel • philly</code>
 
 </div>
 
@@ -12,24 +12,17 @@
 
 <h1>Mashkhura Karimova.</h1>
 
-Building secure systems, understanding how things break, and learning how technology works behind the scenes.
+Girl in cyber, curious about how systems work, how they break, and how to secure them.
 
 <b>Computing & Security Technology @ Drexel University</b><br>
 CRM Data & Information Systems Co-op @ The Business Center for Entrepreneurship & Social Enterprise
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=333333">
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white">
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square">
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=333333">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Codefest_'26-Challenge_Winner-8A2BE2?style=flat-square">
-<img src="https://img.shields.io/badge/Dean's_List-Drexel-07294D?style=flat-square">
+<code>Codefest '26 Challenge Winner</code> &nbsp;·&nbsp;
+<code>Dean's List</code> &nbsp;·&nbsp;
+<code>Cybersecurity</code> &nbsp;·&nbsp;
+<code>Systems</code>
 
 <br><br>
 
@@ -60,7 +53,9 @@ CRM Data & Information Systems Co-op @ The Business Center for Entrepreneurship 
 
 <div align="center">
 
-<code>Cybersecurity • Systems • Networks • Data</code>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2600&pause=800&center=true&vCenter=true&width=650&lines=Girl+in+Cyber+%F0%9F%94%90;Cybersecurity+%E2%80%A2+Systems+%E2%80%A2+Networks;Breaking+things+to+understand+how+they+work;Learning+%E2%80%A2+Building+%E2%80%A2+Securing" />
+</a>
 
 </div>
 
@@ -85,11 +80,11 @@ Working with CRM data, information systems, data organization, and technology su
 
 <td width="50%" valign="top">
 
-### 🛡️ CYBERSECURITY
+### 🔐 CYBERSECURITY
 
-#### Security Labs
+#### Security & Systems
 
-Hands-on work across Linux, networking, authentication, system administration, and vulnerability analysis.
+Hands-on work with Linux, networking, authentication, system administration, and security concepts.
 
 `Kali Linux` `Wireshark` `Nmap` `Network Security`
 
@@ -111,7 +106,7 @@ Hands-on work across Linux, networking, authentication, system administration, a
 
 #### Challenge Winner
 
-Worked on an AI security challenge focused on testing AI systems against adversarial prompts and unreliable behavior.
+Worked on an AI security challenge focused on testing AI systems and identifying security weaknesses.
 
 `AI Security` `Red Teaming` `Prompt Injection`
 
@@ -123,7 +118,7 @@ Worked on an AI security challenge focused on testing AI systems against adversa
 
 #### Database Projects
 
-Building and working with relational databases, SQL queries, data organization, and structured information systems.
+Built relational databases and worked with SQL queries, ERDs, structured data, and database design.
 
 `SQL` `Oracle` `ERD` `Data`
 
@@ -136,33 +131,12 @@ Building and working with relational databases, SQL queries, data organization, 
 
 ## ⚡ TECH
 
-**Security & Systems**
-
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white">
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white">
-<img src="https://img.shields.io/badge/Nmap-5A78A6?style=flat-square">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=333333">
-
-**Development & Data**
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white">
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white">
+<img src="https://img.shields.io/badge/Nmap-5277C3?style=flat-square">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white">
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=333333">
-
-**Tools**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-6E5494?style=flat-square&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square">
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=333333">
-
-<br>
-
-<div align="center">
-
-<code>learning • building • securing • improving</code>
-
-</div>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
