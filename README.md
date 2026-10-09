@@ -36,15 +36,18 @@ CRM Data & Information Systems Co-op @ The Business Center for Entrepreneurship 
 </td>
 
 <td width="32%" valign="top">
+### Quick Look
 
-<h3>Currently</h3>
-
-🎓 Drexel University<br>
-💼 CRM Data & Information Systems<br>
-🔐 Cybersecurity & Systems<br>
-📍 Philadelphia
+<img src="https://img.shields.io/badge/Drexel-CST-blue?style=flat-square">
+<br>
+<img src="https://img.shields.io/badge/Codefest_'26-Challenge_Winner-8A2BE2?style=flat-square">
+<br>
+<img src="https://img.shields.io/badge/Dean's_List-Academic_Honor-FF69B4?style=flat-square">
+<br>
+<img src="https://komarev.com/ghpvc/?username=mashhurakarimova&style=flat-square&label=Profile+views">
 
 </td>
+
 </tr>
 </table>
 
